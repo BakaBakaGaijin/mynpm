@@ -5,4 +5,4 @@ const sleep = (sec) =>
 
 const _ = { sleep, ...lodash };
 
-export default sleep;
+export default _;
