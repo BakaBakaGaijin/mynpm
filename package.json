@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BakaBakaGaijin/mynpm/issues"
   },
-  "homepage": "https://github.com/BakaBakaGaijin/mynpm#readme"
+  "homepage": "https://github.com/BakaBakaGaijin/mynpm#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
 }
